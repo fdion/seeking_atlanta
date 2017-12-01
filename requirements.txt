@@ -1,0 +1,12 @@
+cufflinks==0.12.1
+matplotlib==2.1.0
+numpy==1.13.3
+pandas==0.20.3
+plotly==2.2.2
+rise==5.1.0
+scikit-learn==0.19.1
+scikit-sos==0.1.10
+scipy==0.19.1
+seaborn==0.8
+statsmodels==0.8.0
+stemgraphic==0.3.7
